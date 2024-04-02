@@ -1,6 +1,10 @@
 # Fine-Tuning LLM with Amazon SageMaker
+### Abtsega Tesfaye
+### Roll no: 21053262
 
 ## Overview
+##Author
+
 
 This README provides an overview of the process to fine-tune large language models (LLMs) using Amazon SageMaker. Authored by Abtsega Tesfaye Chufare (Roll No: 21053262), it serves as a quick reference for users.
 
