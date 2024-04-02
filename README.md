@@ -1,4 +1,4 @@
-# Fine-tune Foundation Models on Amazon SageMaker using @remote decorator
+# Fine-tune Foundation Models on Amazon SageMaker 
 
 In this example we will go through the steps required for fine-tuning foundation models on Amazon SageMaker by using @remote decorator for executing SageMaker Training jobs.
 
