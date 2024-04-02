@@ -1,5 +1,5 @@
 # Fine-Tuning LLM with Amazon SageMaker
-### Author Abtsega Tesfaye
+### Author: Abtsega Tesfaye
 ### Roll no: 21053262
 
 ## Overview
